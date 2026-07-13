@@ -27,7 +27,7 @@ End-to-end churn analysis for a telecom company — Python for data cleaning/EDA
 Analysis of employee attrition drivers using Python and Power BI.
 `Python` `Power BI`
 
-**[AI Resume Analyzer](https://github.com/soumiyaalwar-design/ai-resume-analyzer)** — [Live Demo](https://ai-resume-analyzer-2i34of9br9auourym4kegs.streamlit.app)*NLP-based resume parsing and analysis tool built with spaCy and PyPDF2.*
+**[AI Resume Analyzer](https://github.com/soumiyaalwar-design/ai-resume-analyzer)** — [Live Demo](https://ai-resume-analyzer-2i34of9br9auourym4kegs.streamlit.app)* NLP-based resume parsing and analysis tool built with spaCy and PyPDF2.*
 NLP-based resume parsing and analysis tool built with spaCy and PyPDF2.
 
 **[E-Commerce Product Analysis](https://github.com/soumiyaalwar-design/ecommerce-product-analysis)**
